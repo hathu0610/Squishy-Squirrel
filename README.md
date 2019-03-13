@@ -2,7 +2,7 @@
 Squishy Squirrel is a top-down endless runner game that is available on Android and uses Unity engine. This is a very fun and simple game in which the player takes the role as Squishy - a young squirrel whose family is ill because they accidentally ate human food. The main purpose of the game is to educate people about squirrel’s nutrition and learn that human should not feed the squirrel directly. 
 
 # App Specifications
-Palette is built using Unity 2018.3.1f1 
+Squishy Squirrel is built using Unity 2018.3.1f1 
 
 # Features
 Squishy Squirrel allows the users to
