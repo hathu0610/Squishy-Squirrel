@@ -1,0 +1,2 @@
+/Users/hathu0610/Desktop/CS340 Squishy Squirrel/Squishy Squirrel - CS340 (1)/obj/Debug/Assembly-CSharp.csprojAssemblyReference.cache
+/Users/hathu0610/Desktop/CS340 Squishy Squirrel/Squishy Squirrel - CS340 (1)/obj/Debug/Assembly-CSharp.csproj.CoreCompileInputs.cache
